@@ -1,9 +1,9 @@
 {
   "prefixes": ["!","."],
-  "botToken": "",
-  "developers": ["", "367679437816463360"],
+  "botToken": "ODkxNjY2MTY1NTU2OTc3NzU0.YVBq1A.U_blRzdeBRwfb8Jh-imPOG4JOp0",
+  "developers": ["", "891666165556977754"],
   "mongooseConnectURL": "",
-  "botStatus": "Yashinu ❤️ Serendia",
+  "botStatus": "Coded By EmreBasqan",
   "name_age": true,
   "embedColor": "RANDOM",
   "defaultTag": "",
